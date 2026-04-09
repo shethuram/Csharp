@@ -1,0 +1,15 @@
+S:\Internship\Csharp\Task-05\bin\Debug\net9.0\Task-05.exe
+S:\Internship\Csharp\Task-05\bin\Debug\net9.0\Task-05.deps.json
+S:\Internship\Csharp\Task-05\bin\Debug\net9.0\Task-05.runtimeconfig.json
+S:\Internship\Csharp\Task-05\bin\Debug\net9.0\Task-05.dll
+S:\Internship\Csharp\Task-05\bin\Debug\net9.0\Task-05.pdb
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\Task-05.GeneratedMSBuildEditorConfig.editorconfig
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\Task-05.AssemblyInfoInputs.cache
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\Task-05.AssemblyInfo.cs
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\Task-05.csproj.CoreCompileInputs.cache
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\Task-05.sourcelink.json
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\Task-05.dll
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\refint\Task-05.dll
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\Task-05.pdb
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\Task-05.genruntimeconfig.cache
+S:\Internship\Csharp\Task-05\obj\Debug\net9.0\ref\Task-05.dll
