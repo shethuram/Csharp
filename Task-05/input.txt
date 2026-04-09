@@ -1,0 +1,7 @@
+Hello world
+This is a sample file
+
+It contains multiple lines,
+and    multiple   spaces.
+
+C# File I/O is important.
