@@ -75,15 +75,25 @@ Develop a console-based application that reads data from a file, processes it, a
 
 ## 📸 Output
 
-# input.txt
+## input.txt
+```text
+Hello world
+This is a sample file
 
-![[input.txt]]
+It contains multiple lines,
+and    multiple   spaces.
+
+C# File I/O is important.
+```
 ---
 
 # output.txt
-
-![[output.txt]]
-
+```text
+File Analysis Result
+---------------------
+Total Lines: 7
+Total Words: 19
+```
 ---
 
 ## 📚 Learnings
