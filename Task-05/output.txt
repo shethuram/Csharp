@@ -1,4 +1,4 @@
 File Analysis Result
 ---------------------
 Total Lines: 7
-Total Words: 19
+Total Words: 21
