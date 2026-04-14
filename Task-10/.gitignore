@@ -1,0 +1,57 @@
+# =========================
+# 🧱 Build Folders
+# =========================
+bin/
+obj/
+
+# =========================
+# 🧠 Visual Studio Files
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# 📦 Rider / VS Code (optional)
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# 🔐 Logs & Temp Files
+# =========================
+*.log
+*.cache
+*.tmp
+
+# =========================
+# ⚙️ OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🔑 Secrets / Sensitive Files
+# =========================
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# =========================
+# 📦 NuGet Packages
+# =========================
+*.nupkg
+packages/
+
+# =========================
+# 🧪 Test Results
+# =========================
+TestResults/
+*.trx
+
+# =========================
+# 🧾 Publish Output
+# =========================
+publish/
